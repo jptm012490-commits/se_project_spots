@@ -14,4 +14,4 @@ An interactive webpage containing multiple pictures which provides users to edit
 
 This webpage is deployed in Github Pages
 
--Deployment link:
+-[Deployment link:](https://jptm012490-commits.github.io/se_project_spots/)
