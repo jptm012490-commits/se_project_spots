@@ -4,7 +4,7 @@
 
 .card__image {
   height: 413px;
-  width: 413px;
+  width: 100%;
   object-fit: cover;
   display: block;
   border-radius: 8px;
@@ -17,7 +17,13 @@
 }
 
 .card__title {
+  display: -webkit-box;
+  overflow: hidden;
   text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin-top: 0;
+  margin-bottom: 0;
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 20px;
