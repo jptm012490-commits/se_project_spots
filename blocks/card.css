@@ -11,6 +11,7 @@
 }
 
 .card__content {
+  margin-bottom: 8px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -33,7 +34,7 @@
 }
 
 .card__like-btn {
-  background-image: url(../images/like__icon.svg);
+  background-image: url(../images/like__icon_default.svg);
   width: 23px;
   height: 20px;
   border: none;
@@ -53,5 +54,6 @@
 
   .card__image {
     height: 288px;
+    max-width: 288px;
   }
 }
