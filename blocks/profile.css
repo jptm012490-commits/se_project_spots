@@ -94,7 +94,7 @@
   align-items: center;
 }
 
-.profile__add-btn:hover {
+.profile__new-post-btn:hover {
   opacity: 0.8;
   cursor: pointer;
 }
