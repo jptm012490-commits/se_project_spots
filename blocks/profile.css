@@ -75,7 +75,7 @@
   cursor: pointer;
 }
 
-.profile__add-btn {
+.profile__new-post-btn {
   margin-top: auto;
   margin-left: auto;
   width: 157px;
@@ -132,7 +132,7 @@
     justify-content: center;
   }
 
-  .profile__add-btn {
+  .profile__new-post-btn {
     margin: 0;
     width: 100%;
   }
