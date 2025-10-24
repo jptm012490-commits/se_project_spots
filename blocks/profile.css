@@ -25,7 +25,6 @@
   font-weight: 500;
   font-size: 32px;
   line-height: 1;
-  letter-spacing: 0%;
   color: #212121;
   display: -webkit-box;
   overflow: hidden;
@@ -68,6 +67,7 @@
   justify-content: flex-start;
   align-items: center;
   opacity: 0.7;
+  cursor: pointer;
 }
 
 .profile__edit-btn:hover {
@@ -92,6 +92,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
 .profile__new-post-btn:hover {

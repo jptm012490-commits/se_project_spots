@@ -29,7 +29,6 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
-  letter-spacing: 0%;
   color: #212121;
 }
 
@@ -40,6 +39,7 @@
   border: none;
   background-color: transparent;
   opacity: 40%;
+  cursor: pointer;
 }
 
 .card__like-btn:hover {
