@@ -94,7 +94,7 @@
   margin: 8px 0 0;
   width: 100%;
   border-radius: 8px;
-  padding: 16px 0;
+  padding: 16px 12px;
   border-color: #212121;
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
@@ -131,5 +131,10 @@
     width: 100%;
     max-width: none;
     padding: 18px 12px;
+  }
+
+  .modal__close-btn {
+    top: 22px;
+    right: 12px;
   }
 }
